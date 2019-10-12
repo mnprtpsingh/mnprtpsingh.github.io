@@ -4,4 +4,4 @@ Aman - How are you?
 Reetesh - Fine! What about you , how are you doing?  
 Aman - Fine! Just completed Hacktoberfest Challenge! 
 Ruby - Any idea about next Hack quest ??
- 
+Ruby - I have completed my first Hack quest
